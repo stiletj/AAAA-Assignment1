@@ -1,0 +1,7 @@
+<map id="TextureManager::SetActiveTexture" name="TextureManager::SetActiveTexture">
+<area shape="rect" id="Node000001" title="Activate a texture for rendering. This function binds and enables the specified texture." alt="" coords="159,23,337,63"/>
+<area shape="rect" id="Node000002" href="$class_u_i.html#a2c43e0966d6d6b20979e22fadfaf6666" title="Draws an image on the screen." alt="" coords="6,5,110,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,32,110,28,111,22,145,27"/>
+<area shape="rect" id="Node000003" href="$class_terrain.html#a13e4445aaf03c4fc7a600cb4305518b4" title="Renders the terrain." alt="" coords="5,55,111,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,59,111,63,111,58,145,54"/>
+</map>

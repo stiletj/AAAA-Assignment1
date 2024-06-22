@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.27/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/FindPackageMessage.cmake
+C:/Users/tjsti/GitHub/AAAAEngine/AAAAGameEngine2/AAAAGameEngine2/build/CMakeFiles/cmake.verify_globs
+C:/Users/tjsti/GitHub/AAAAEngine/AAAAGameEngine2/AAAAGameEngine2/lib/glew-cmake/CMakeLists.txt
+C:/Users/tjsti/GitHub/AAAAEngine/AAAAGameEngine2/AAAAGameEngine2/lib/glew-cmake/GeneratePkgConfig.cmake

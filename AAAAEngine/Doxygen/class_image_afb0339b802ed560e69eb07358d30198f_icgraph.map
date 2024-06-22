@@ -1,0 +1,7 @@
+<map id="Image::Image" name="Image::Image">
+<area shape="rect" id="Node000001" title="Constructs an Image object from the width and height." alt="" coords="455,13,555,38"/>
+<area shape="rect" id="Node000002" href="$class_texture_generator.html#a6512f7b5447eb418424908cbeb980ebd" title="Sets up a new texture with the given width and height." alt="" coords="220,5,407,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,28,407,28,407,23,441,23"/>
+<area shape="rect" id="Node000003" href="$class_terrain.html#a272d417f0b93415cc3099fa020bfd64a" title="Creates a procedural texture for the terrain." alt="" coords="5,5,172,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,28,172,28,172,23,206,23"/>
+</map>

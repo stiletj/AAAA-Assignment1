@@ -1,0 +1,9 @@
+<map id="TextureManager::LoadTexture" name="TextureManager::LoadTexture">
+<area shape="rect" id="Node000001" title="Loads a texture from the specified file path." alt="" coords="347,31,541,56"/>
+<area shape="rect" id="Node000002" href="$class_terrain.html#aad2c79618007f83cbdd86441f72bab68" title="Loads a detail map texture for the terrain." alt="" coords="104,5,299,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="333,34,299,31,299,26,333,29"/>
+<area shape="rect" id="Node000004" href="$class_terrain.html#a073f7ec4ee4dfb202acbe9ab71d6a88c" title="Loads a texture for the terrain." alt="" coords="114,55,289,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="333,57,289,61,289,56,333,52"/>
+<area shape="rect" id="Node000003" href="$_core_engine_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,21,56,21,56,15,90,15"/>
+</map>

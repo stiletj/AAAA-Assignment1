@@ -1,0 +1,74 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,306,56,331"/>
+<area shape="rect" id="Node000002" href="$class_lighting_manager.html#af5fd9d45e09a513183773b94074e1d5a" title="Activate a directional light with the given ID." alt="" coords="116,5,287,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,306,30,259,39,193,48,156,61,120,79,86,102,56,106,52,110,56,106,59,83,89,66,122,53,158,44,194,36,260,34,306"/>
+<area shape="rect" id="Node000004" href="$class_terrain.html#a6bc029bd35411eb1467d710f5e57ad3f" title="Adds a procedural texture to the terrain." alt="" coords="104,70,299,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="30,306,33,267,44,213,65,155,82,128,102,105,107,101,111,105,106,109,86,131,70,157,49,214,38,267,35,306"/>
+<area shape="rect" id="Node000007" href="$class_graphics_utility.html#a78aa5afa04ece31aa37a7e495965eb6b" title="Initializes GLFW." alt="" coords="120,169,283,194"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="35,305,60,259,79,234,102,211,127,197,130,202,106,215,83,237,64,262,40,307"/>
+<area shape="rect" id="Node000009" href="$class_graphics_utility.html#ade82ac0275e5459d6567d61cc43468b1" title="Initializes OpenGL extensions using GLEW." alt="" coords="120,269,283,309"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="56,312,106,303,107,308,57,317"/>
+<area shape="rect" id="Node000010" href="$class_graphics_utility.html#a018df261844db9cf240e2c7875d9ae03" title="Terminates GLFW." alt="" coords="361,271,533,297"/>
+<area shape="poly" id="edge37_Node000001_Node000010" title=" " alt="" coords="40,304,66,278,84,265,103,255,142,244,182,238,262,239,336,250,397,265,396,270,335,255,261,244,182,243,143,249,105,260,86,269,70,282,44,308"/>
+<area shape="rect" id="Node000011" href="$_world_physics_8cpp.html#a89d0ae6bb323c26818d54959ea979168" title="Initializes the physics world." alt="" coords="158,334,245,359"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="57,320,145,335,144,340,56,325"/>
+<area shape="rect" id="Node000013" href="$class_terrain.html#aad2c79618007f83cbdd86441f72bab68" title="Loads a detail map texture for the terrain." alt="" coords="104,119,299,145"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="31,305,38,274,50,234,71,191,102,154,109,149,112,153,106,158,76,194,55,235,43,276,36,306"/>
+<area shape="rect" id="Node000016" href="$class_terrain.html#ab6196163de0ab8f79fa5a26abb2080a3" title="Loads a heightmap from a file." alt="" coords="124,383,279,409"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="48,329,74,349,105,368,126,377,124,382,103,373,71,354,45,334"/>
+<area shape="rect" id="Node000020" href="$class_scripting.html#a208773803549fd2f005543e14f014447" title="Loads a Lua script file." alt="" coords="605,462,748,487"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="39,330,63,376,82,400,105,419,131,427,177,435,308,449,592,468,591,473,307,455,176,441,130,433,103,424,78,404,58,379,34,333"/>
+<area shape="rect" id="Node000021" href="$_core_engine_8cpp.html#ac9fecbdf8d91a0291c490798af2d8b42" title=" " alt="" coords="147,607,255,633"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="40,330,106,464,186,594,182,597,102,467,35,333"/>
+<area shape="rect" id="Node000032" href="$class_shader.html#a723ccb160694ce83183aff4a8daca0d0" title="Construct a shader object and load shader source code from a file." alt="" coords="145,755,257,781"/>
+<area shape="poly" id="edge33_Node000001_Node000032" title=" " alt="" coords="35,332,40,384,52,463,73,554,88,600,106,644,141,699,179,743,175,747,137,703,102,647,83,602,68,556,47,464,35,384,30,332"/>
+<area shape="rect" id="Node000035" href="$_core_engine_8cpp.html#a07aaf1227e4d645f15e0a964f54ef291" title=" " alt="" coords="176,805,227,830"/>
+<area shape="poly" id="edge36_Node000001_Node000035" title=" " alt="" coords="35,331,37,423,47,561,56,634,68,700,85,755,106,792,118,801,132,808,162,815,161,820,130,813,115,806,102,795,80,757,63,702,51,635,42,562,32,423,29,332"/>
+<area shape="rect" id="Node000003" href="$class_lighting_manager.html#a385053bf280f3767147c0b3b14fb31db" title="Set point light uniforms in a shader program." alt="" coords="347,5,548,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="287,23,333,23,333,28,287,28"/>
+<area shape="rect" id="Node000005" href="$class_texture_generator.html#a4af68d500c03e51f7067686c6f71d2dd" title="Adds a texture from a file." alt="" coords="350,70,545,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="299,80,336,80,336,85,299,85"/>
+<area shape="rect" id="Node000006" href="$class_image.html#a910ae06464143720b7b77990a1d59734" title="Constructs an Image object from the specified file path." alt="" coords="627,95,727,121"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="545,91,614,98,613,104,544,96"/>
+<area shape="rect" id="Node000008" href="$class_graphics_utility.html#a3a51416fb62f48fc4cef5c4997da5bd2" title=" " alt="" coords="352,218,543,243"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="266,191,371,213,370,218,265,197"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="283,285,347,284,347,289,283,290"/>
+<area shape="rect" id="Node000012" href="$_world_physics_8cpp.html#ad4062822e4341780530c004a9ab31cfc" title="Sets up the physics world with specified parameters." alt="" coords="380,334,515,359"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="245,344,366,344,366,349,245,349"/>
+<area shape="rect" id="Node000014" href="$class_texture_manager.html#a56a8e72fe021e29efcda8491d0efccfc" title="Get the singleton instance of TextureManager." alt="" coords="351,169,544,194"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="266,142,371,163,370,169,265,147"/>
+<area shape="rect" id="Node000015" href="$class_texture_manager.html#a41b2afff310278c605a866e1524b61f5" title="Loads a texture from the specified file path." alt="" coords="350,119,545,145"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="299,129,336,129,336,135,299,135"/>
+<area shape="poly" id="edge15_Node000015_Node000006" title=" " alt="" coords="545,119,613,112,614,117,545,124"/>
+<area shape="rect" id="Node000017" href="$class_terrain.html#a8cab08155ceb1b7540741f61b1e2ef85" title="Creates a geomipmap grid for the terrain." alt="" coords="347,383,548,409"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="279,393,332,393,332,399,279,399"/>
+<area shape="rect" id="Node000018" href="$class_terrain.html#a577ef79d63f1338d87bb2111e31ab830" title="Generates the vertex and index buffers for the terrain." alt="" coords="597,376,756,416"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="548,393,584,393,584,399,548,399"/>
+<area shape="rect" id="Node000019" href="$class_terrain.html#a1e0b78b3f65165eeef26e559738a54fe" title="Calculates the number of indices." alt="" coords="805,383,967,409"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="756,393,791,393,791,399,756,399"/>
+<area shape="rect" id="Node000022" href="$_core_engine_8cpp.html#a5c39622609be6415488e188d8ea77951" title=" " alt="" coords="408,534,487,559"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="238,605,346,569,394,556,395,562,347,575,239,610"/>
+<area shape="rect" id="Node000024" href="$_core_engine_8cpp.html#a354fff04dde396a08a72cee8e1f7e187" title=" " alt="" coords="409,583,486,609"/>
+<area shape="poly" id="edge24_Node000021_Node000024" title=" " alt="" coords="255,612,394,598,395,604,256,617"/>
+<area shape="rect" id="Node000025" href="$_core_engine_8cpp.html#affd872b862619af7b8077c026cc18391" title=" " alt="" coords="408,485,487,510"/>
+<area shape="poly" id="edge25_Node000021_Node000025" title=" " alt="" coords="216,605,271,564,307,540,346,520,394,504,395,509,348,525,310,545,274,568,219,609"/>
+<area shape="rect" id="Node000026" href="$struct_physics_body.html#ac082e02eb4d6861f6d1aff1a9b56e78e" title="Returns a reference to the physics properties of the body." alt="" coords="383,633,511,658"/>
+<area shape="poly" id="edge27_Node000021_Node000026" title=" " alt="" coords="256,623,370,635,369,640,255,628"/>
+<area shape="rect" id="Node000027" href="$_core_engine_8cpp.html#a731a78b3559c235e2079366ac41ca8e0" title=" " alt="" coords="406,682,489,707"/>
+<area shape="poly" id="edge28_Node000021_Node000027" title=" " alt="" coords="237,630,347,668,393,680,392,685,346,673,235,635"/>
+<area shape="rect" id="Node000029" href="$_core_engine_8cpp.html#a6999152473ebbb1cf8a6814ab2b0ed14" title=" " alt="" coords="397,731,497,757"/>
+<area shape="poly" id="edge30_Node000021_Node000029" title=" " alt="" coords="219,631,273,673,309,697,348,718,385,730,383,735,346,722,307,702,270,678,215,635"/>
+<area shape="rect" id="Node000031" href="$_core_engine_8cpp.html#a6508c1547cbf58db29a2ea9e405234bd" title=" " alt="" coords="405,781,489,806"/>
+<area shape="poly" id="edge32_Node000021_Node000031" title=" " alt="" coords="213,631,265,697,303,735,348,767,393,784,391,789,345,772,300,739,261,700,209,634"/>
+<area shape="rect" id="Node000023" href="$class_e_c_s.html#a375d4656823da0fe04b4db86f3a2c6b2" title="Adds an entity to the registry with the specified transformation and rendering status." alt="" coords="619,534,734,559"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="487,544,606,544,606,549,487,549"/>
+<area shape="poly" id="edge26_Node000025_Node000020" title=" " alt="" coords="487,491,591,480,592,486,487,496"/>
+<area shape="rect" id="Node000028" href="$class_mesh_loader.html#a3c9218d4101d614f6271cfbe3bd07b70" title="Loads a mesh from the specified file." alt="" coords="596,682,757,707"/>
+<area shape="poly" id="edge29_Node000027_Node000028" title=" " alt="" coords="489,692,582,692,582,697,489,697"/>
+<area shape="rect" id="Node000030" href="$class_mesh_loader.html#a4f7af61bb1de36dd1b9c7020e351639a" title="Retrieves the loaded mesh." alt="" coords="599,731,754,757"/>
+<area shape="poly" id="edge31_Node000029_Node000030" title=" " alt="" coords="498,741,586,741,586,747,498,747"/>
+<area shape="rect" id="Node000033" href="$class_shader.html#a45d0ed9766d61ed6465c378ad4bdea13" title="Create a shader program from vertex and fragment shaders." alt="" coords="372,830,523,855"/>
+<area shape="poly" id="edge34_Node000032_Node000033" title=" " alt="" coords="258,778,300,791,324,804,348,816,370,824,369,829,346,821,321,808,298,796,257,783"/>
+<area shape="rect" id="Node000034" href="$class_shader.html#af4a0151fa9ade8c81ac7ec6bc1aef0c5" title="Parse shader source code from a file." alt="" coords="374,879,521,905"/>
+<area shape="poly" id="edge35_Node000032_Node000034" title=" " alt="" coords="258,773,280,780,300,791,317,810,325,830,332,849,348,866,363,874,360,879,345,870,328,851,320,832,313,813,297,795,278,785,257,778"/>
+</map>

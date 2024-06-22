@@ -1,0 +1,5 @@
+<map id="VertexBufferLayout::Push" name="VertexBufferLayout::Push">
+<area shape="rect" id="Node000001" title="Push an unsigned char element into the layout." alt="" coords="5,5,137,45"/>
+<area shape="rect" id="Node000002" href="$struct_vertex_buffer_element.html#a8465417a435f8bcd68a71bc414f1d0ee" title="Get the size of the data type in bytes." alt="" coords="185,5,327,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,23,172,23,172,28,137,28"/>
+</map>

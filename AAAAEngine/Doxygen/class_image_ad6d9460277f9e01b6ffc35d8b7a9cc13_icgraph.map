@@ -1,0 +1,11 @@
+<map id="Image::getHeight" name="Image::getHeight">
+<area shape="rect" id="Node000001" title="Retrieves the height of the image." alt="" coords="653,42,773,67"/>
+<area shape="rect" id="Node000002" href="$class_texture_generator.html#a009b5062d67933807a52f52797257af9" title="Gets the height of a texture." alt="" coords="423,5,593,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="639,47,592,40,593,35,640,41"/>
+<area shape="rect" id="Node000005" href="$class_texture_manager.html#a2fed496c88b9ef528af6d3e156c1af0b" title="Loads a cubemap texture from the specified file paths." alt="" coords="411,70,605,95"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="640,67,602,73,601,67,639,62"/>
+<area shape="rect" id="Node000003" href="$class_terrain.html#add287d435492ab37788a960345807084" title="Calculates the texture coordinates for a given texture number." alt="" coords="220,13,363,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,28,363,28,363,23,410,23"/>
+<area shape="rect" id="Node000004" href="$class_terrain.html#a272d417f0b93415cc3099fa020bfd64a" title="Creates a procedural texture for the terrain." alt="" coords="5,5,172,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="206,28,172,28,172,23,206,23"/>
+</map>

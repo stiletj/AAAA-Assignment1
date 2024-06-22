@@ -1,0 +1,5 @@
+<map id="DirectionalLightSource" name="DirectionalLightSource">
+<area shape="rect" id="Node000001" title="A class representing a directional light source." alt="" coords="5,329,191,525"/>
+<area shape="rect" id="Node000002" href="$class_light_source.html" title="Base class for a generic light source with color and intensity properties." alt="" coords="18,5,178,281"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,295,101,329,95,329,95,295"/>
+</map>

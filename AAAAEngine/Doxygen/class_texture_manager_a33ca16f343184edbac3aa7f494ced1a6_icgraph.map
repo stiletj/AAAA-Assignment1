@@ -1,0 +1,10 @@
+<map id="TextureManager::GetTexture" name="TextureManager::GetTexture">
+<area shape="rect" id="Node000001" title="Get texture ID by its path." alt="" coords="385,31,572,56"/>
+<area shape="rect" id="Node000002" href="$class_u_i.html#a2c43e0966d6d6b20979e22fadfaf6666" title="Draws an image on the screen." alt="" coords="6,5,110,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="371,40,110,24,110,18,372,34"/>
+<area shape="rect" id="Node000003" href="$class_texture_manager.html#aa0be604cf7760cc08323d6526502d9ff" title="Activate a texture for rendering. This function binds and enables the specified texture." alt="" coords="159,51,337,91"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="372,59,338,63,337,58,372,54"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="162,50,103,33,105,28,164,45"/>
+<area shape="rect" id="Node000004" href="$class_terrain.html#a13e4445aaf03c4fc7a600cb4305518b4" title="Renders the terrain." alt="" coords="5,59,111,84"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="145,74,111,74,111,69,145,69"/>
+</map>

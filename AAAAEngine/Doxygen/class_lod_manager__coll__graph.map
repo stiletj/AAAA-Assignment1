@@ -1,0 +1,5 @@
+<map id="LodManager" name="LodManager">
+<area shape="rect" id="Node000001" title="Class responsible for managing Level of Detail (LOD) for terrain patches." alt="" coords="12,224,167,540"/>
+<area shape="rect" id="Node000002" href="$struct_lod_manager_1_1patch_lod.html" title="Structure representing the LOD information for a terrain patch." alt="" coords="5,5,173,161"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,162,92,208,87,208,87,162"/>
+</map>

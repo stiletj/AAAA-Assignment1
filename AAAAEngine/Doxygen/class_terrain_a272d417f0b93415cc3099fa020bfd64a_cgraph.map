@@ -1,0 +1,27 @@
+<map id="Terrain::createProceduralTexture" name="Terrain::createProceduralTexture">
+<area shape="rect" id="Node000001" title="Creates a procedural texture for the terrain." alt="" coords="5,138,172,178"/>
+<area shape="rect" id="Node000002" href="$class_terrain.html#af098de14a31aec4aed0d28c2efc93bfe" title="Gets the height at a specific position on the terrain." alt="" coords="266,5,390,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,136,153,88,184,62,219,41,251,28,253,33,221,46,188,67,157,92,109,140"/>
+<area shape="rect" id="Node000004" href="$class_texture_generator.html#a5a48d16cc8f36bccb1976fdf2821a0d7" title="Gets the number of textures." alt="" coords="241,55,415,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,135,219,105,243,97,245,102,221,110,140,140"/>
+<area shape="rect" id="Node000005" href="$class_texture_generator.html#adb59d2150792305469cd3a46340ead15" title="Gets the range of the texture values." alt="" coords="235,120,421,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="172,147,221,141,222,147,172,152"/>
+<area shape="rect" id="Node000006" href="$class_terrain.html#add287d435492ab37788a960345807084" title="Calculates the texture coordinates for a given texture number." alt="" coords="257,169,399,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="172,164,243,171,243,176,172,169"/>
+<area shape="rect" id="Node000011" href="$class_texture_generator.html#ae0e0275ce37c2f797c7433e8c93173be" title="Gets the maximum texture value for a given texture." alt="" coords="220,219,436,244"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="139,176,221,205,251,213,249,218,219,210,137,181"/>
+<area shape="rect" id="Node000012" href="$class_texture_generator.html#a6512f7b5447eb418424908cbeb980ebd" title="Sets up a new texture with the given width and height." alt="" coords="235,269,421,309"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="113,176,161,216,221,254,237,261,234,266,219,259,158,220,110,180"/>
+<area shape="rect" id="Node000003" href="$class_terrain.html#ab75e989fd0eac9ef071bddb5a27ed08e" title="Checks if a position is within the bounds of the terrain." alt="" coords="508,5,629,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,15,494,15,494,21,390,21"/>
+<area shape="rect" id="Node000007" href="$class_texture_generator.html#a009b5062d67933807a52f52797257af9" title="Gets the height of a texture." alt="" coords="484,122,653,162"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="399,168,470,156,471,161,400,173"/>
+<area shape="rect" id="Node000009" href="$class_texture_generator.html#a1d50f73dcec252286210ff730765edbb" title="Gets the width of a texture." alt="" coords="484,186,653,226"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="400,186,470,194,470,199,399,192"/>
+<area shape="rect" id="Node000008" href="$class_image.html#ad6d9460277f9e01b6ffc35d8b7a9cc13" title="Retrieves the height of the image." alt="" coords="701,129,821,155"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="653,139,688,139,688,145,653,145"/>
+<area shape="rect" id="Node000010" href="$class_image.html#a54ed099841ba0f9a30aa7c657742b5c6" title="Retrieves the width of the image." alt="" coords="703,193,820,219"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="653,203,689,203,689,209,653,209"/>
+<area shape="rect" id="Node000013" href="$class_image.html#afb0339b802ed560e69eb07358d30198f" title="Constructs an Image object from the width and height." alt="" coords="519,276,619,301"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="421,286,504,286,504,291,421,291"/>
+</map>

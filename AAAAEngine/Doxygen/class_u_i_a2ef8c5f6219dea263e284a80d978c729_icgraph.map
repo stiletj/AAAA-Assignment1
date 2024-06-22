@@ -1,0 +1,5 @@
+<map id="UI::cleanUp" name="UI::cleanUp">
+<area shape="rect" id="Node000001" title="Cleans up resources used by the UI." alt="" coords="116,5,205,31"/>
+<area shape="rect" id="Node000002" href="$class_u_i.html#a1b23d0c64c7cbb3d143d90ec532a7ccd" title="Destructor." alt="" coords="5,5,68,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,21,68,21,68,15,102,15"/>
+</map>

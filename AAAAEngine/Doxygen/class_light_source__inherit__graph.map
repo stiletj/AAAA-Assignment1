@@ -1,0 +1,9 @@
+<map id="LightSource" name="LightSource">
+<area shape="rect" id="Node000001" title="Base class for a generic light source with color and intensity properties." alt="" coords="213,5,373,281"/>
+<area shape="rect" id="Node000002" href="$class_directional_light_source.html" title="A class representing a directional light source." alt="" coords="5,359,191,555"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,286,161,360,156,358,203,283"/>
+<area shape="rect" id="Node000003" href="$class_point_light_source.html" title="A class representing a point light source." alt="" coords="215,329,370,585"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,295,295,329,290,329,290,295"/>
+<area shape="rect" id="Node000004" href="$class_spot_light_source.html" title="A class representing a spot light source." alt="" coords="394,329,546,585"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="380,292,400,328,395,331,375,295"/>
+</map>

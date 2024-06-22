@@ -1,0 +1,7 @@
+<map id="TextureManager::LoadTexture" name="TextureManager::LoadTexture">
+<area shape="rect" id="Node000001" title="Loads a cubemap texture from the specified file paths." alt="" coords="5,31,200,56"/>
+<area shape="rect" id="Node000002" href="$class_image.html#ad6d9460277f9e01b6ffc35d8b7a9cc13" title="Retrieves the height of the image." alt="" coords="248,5,368,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,29,234,24,235,30,201,34"/>
+<area shape="rect" id="Node000003" href="$class_image.html#a54ed099841ba0f9a30aa7c657742b5c6" title="Retrieves the width of the image." alt="" coords="249,55,367,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,52,236,56,235,62,200,57"/>
+</map>

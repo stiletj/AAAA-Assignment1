@@ -1,0 +1,7 @@
+<map id="Terrain::addProceduralTexture" name="Terrain::addProceduralTexture">
+<area shape="rect" id="Node000001" title="Adds a procedural texture to the terrain." alt="" coords="5,5,200,31"/>
+<area shape="rect" id="Node000002" href="$class_texture_generator.html#a4af68d500c03e51f7067686c6f71d2dd" title="Adds a texture from a file." alt="" coords="248,5,443,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,15,234,15,234,21,200,21"/>
+<area shape="rect" id="Node000003" href="$class_image.html#a910ae06464143720b7b77990a1d59734" title="Constructs an Image object from the specified file path." alt="" coords="491,5,591,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,15,477,15,477,21,443,21"/>
+</map>

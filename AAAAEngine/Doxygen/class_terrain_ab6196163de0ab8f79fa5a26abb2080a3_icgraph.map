@@ -1,0 +1,7 @@
+<map id="Terrain::loadHeightMap" name="Terrain::loadHeightMap">
+<area shape="rect" id="Node000001" title="Loads a heightmap from a file." alt="" coords="161,31,316,56"/>
+<area shape="rect" id="Node000002" href="$_core_engine_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="34,5,85,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,33,84,24,85,19,148,28"/>
+<area shape="rect" id="Node000003" href="$class_terrain.html#a54cf35a75a180ebcdca2072a6bc274a9" title="Constructs a Terrain object from a heightmap file." alt="" coords="5,55,113,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,58,114,63,113,57,147,53"/>
+</map>

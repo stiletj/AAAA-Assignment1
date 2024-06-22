@@ -1,0 +1,9 @@
+<map id="Terrain::loadDetailMapTexture" name="Terrain::loadDetailMapTexture">
+<area shape="rect" id="Node000001" title="Loads a detail map texture for the terrain." alt="" coords="5,31,200,56"/>
+<area shape="rect" id="Node000002" href="$class_texture_manager.html#a56a8e72fe021e29efcda8491d0efccfc" title="Get the singleton instance of TextureManager." alt="" coords="249,5,442,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,31,235,27,235,32,201,36"/>
+<area shape="rect" id="Node000003" href="$class_texture_manager.html#a41b2afff310278c605a866e1524b61f5" title="Loads a texture from the specified file path." alt="" coords="248,55,443,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,50,235,54,234,59,200,56"/>
+<area shape="rect" id="Node000004" href="$class_image.html#a910ae06464143720b7b77990a1d59734" title="Constructs an Image object from the specified file path." alt="" coords="491,55,591,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="443,65,477,65,477,70,443,70"/>
+</map>

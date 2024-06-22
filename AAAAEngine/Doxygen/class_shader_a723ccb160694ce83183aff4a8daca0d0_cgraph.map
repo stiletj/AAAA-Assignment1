@@ -1,0 +1,7 @@
+<map id="Shader::Shader" name="Shader::Shader">
+<area shape="rect" id="Node000001" title="Construct a shader object and load shader source code from a file." alt="" coords="5,31,117,56"/>
+<area shape="rect" id="Node000002" href="$class_shader.html#a45d0ed9766d61ed6465c378ad4bdea13" title="Create a shader program from vertex and fragment shaders." alt="" coords="165,5,316,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,33,151,28,152,33,118,38"/>
+<area shape="rect" id="Node000003" href="$class_shader.html#af4a0151fa9ade8c81ac7ec6bc1aef0c5" title="Parse shader source code from a file." alt="" coords="167,55,314,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,48,154,53,153,58,117,53"/>
+</map>

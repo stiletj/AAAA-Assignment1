@@ -1,0 +1,12 @@
+<map id="UI::drawImage" name="UI::drawImage">
+<area shape="rect" id="Node000001" title="Draws an image on the screen." alt="" coords="5,85,109,111"/>
+<area shape="rect" id="Node000002" href="$class_texture_manager.html#a56a8e72fe021e29efcda8491d0efccfc" title="Get the singleton instance of TextureManager." alt="" coords="157,5,351,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,83,156,48,197,33,199,38,158,52,84,88"/>
+<area shape="rect" id="Node000003" href="$class_texture_manager.html#a33ca16f343184edbac3aa7f494ced1a6" title="Get texture ID by its path." alt="" coords="399,85,585,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,93,157,91,351,91,385,92,385,97,351,97,157,97,109,98"/>
+<area shape="rect" id="Node000004" href="$class_texture_manager.html#aa0be604cf7760cc08323d6526502d9ff" title="Activate a texture for rendering. This function binds and enables the specified texture." alt="" coords="165,106,343,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="110,103,152,109,151,114,109,108"/>
+<area shape="rect" id="Node000005" href="$class_texture_manager.html#aac74a2b01b5d3a0d07880930149bb0e2" title=" " alt="" coords="173,171,335,196"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="77,108,114,132,158,156,182,164,180,169,156,160,111,137,75,113"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="343,113,384,108,385,113,344,118"/>
+</map>

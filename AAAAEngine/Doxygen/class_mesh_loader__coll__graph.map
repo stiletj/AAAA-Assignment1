@@ -1,0 +1,5 @@
+<map id="MeshLoader" name="MeshLoader">
+<area shape="rect" id="Node000001" title="Class responsible for loading mesh data from file using the Assimp library." alt="" coords="5,204,141,380"/>
+<area shape="rect" id="Node000002" href="$struct_whole_mesh.html" title="Structure representing a complete mesh with materials." alt="" coords="11,5,135,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,142,76,188,71,188,71,142"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TextureManager::updateTexture" name="TextureManager::updateTexture">
+<area shape="rect" id="Node000001" title="Updates an existing texture." alt="" coords="5,5,211,31"/>
+<area shape="rect" id="Node000002" href="$class_image.html#a910ae06464143720b7b77990a1d59734" title="Constructs an Image object from the specified file path." alt="" coords="259,5,359,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,15,245,15,245,21,211,21"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TextureManager::Bind" name="TextureManager::Bind">
+<area shape="rect" id="Node000001" title="Binds the texture correlating to id." alt="" coords="168,5,317,31"/>
+<area shape="rect" id="Node000002" href="$class_skybox.html#a3607b3edf6cca1899effb5a87daa7367" title="Renders the skybox." alt="" coords="5,5,120,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,21,120,21,120,15,154,15"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PointLightSource" name="PointLightSource">
+<area shape="rect" id="Node000001" title="A class representing a point light source." alt="" coords="8,329,163,585"/>
+<area shape="rect" id="Node000002" href="$class_light_source.html" title="Base class for a generic light source with color and intensity properties." alt="" coords="5,5,165,281"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,295,88,329,83,329,83,295"/>
+</map>

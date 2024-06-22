@@ -1,0 +1,5 @@
+<map id="LightingManager::ActivatePointLight" name="LightingManager::ActivatePointLight">
+<area shape="rect" id="Node000001" title="Activate a point light with the given ID." alt="" coords="5,5,176,45"/>
+<area shape="rect" id="Node000002" href="$class_lighting_manager.html#a385053bf280f3767147c0b3b14fb31db" title="Set point light uniforms in a shader program." alt="" coords="224,5,425,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,23,210,23,210,28,176,28"/>
+</map>

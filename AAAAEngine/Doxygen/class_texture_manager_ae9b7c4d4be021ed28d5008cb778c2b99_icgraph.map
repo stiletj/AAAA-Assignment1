@@ -1,0 +1,5 @@
+<map id="TextureManager::DeleteAllTextures" name="TextureManager::DeleteAllTextures">
+<area shape="rect" id="Node000001" title="Delete all textures managed by the TextureManager." alt="" coords="228,5,403,45"/>
+<area shape="rect" id="Node000002" href="$class_texture_manager.html#a001d6d74674961db79987e3222682576" title="Destructor to clean up resources." alt="" coords="5,5,180,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,28,180,28,180,23,214,23"/>
+</map>

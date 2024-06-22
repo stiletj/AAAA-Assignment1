@@ -1,0 +1,9 @@
+<map id="VertexArray::AddBuffer" name="VertexArray::AddBuffer">
+<area shape="rect" id="Node000001" title="Add a vertex buffer and layout to the Vertex Array Object (VAO)." alt="" coords="5,38,160,63"/>
+<area shape="rect" id="Node000002" href="$class_vertex_array.html#ad5059455f0864327028636c628d5a661" title="Bind the Vertex Array Object (VAO) for rendering." alt="" coords="209,13,334,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,38,195,33,195,38,161,43"/>
+<area shape="rect" id="Node000004" href="$class_vertex_buffer.html#a13019e8580ca3e369fad4166500ad2b9" title="Bind the Vertex Buffer for rendering." alt="" coords="208,62,335,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,58,195,62,194,68,160,63"/>
+<area shape="rect" id="Node000003" href="$class_graphics_utility.html#a1018c178afb7a8781e9243e57f073b46" title="Binds a vertex array object." alt="" coords="383,5,561,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,23,369,23,369,28,334,28"/>
+</map>

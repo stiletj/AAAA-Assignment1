@@ -1,0 +1,7 @@
+<map id="GraphicsUtility::errorCallback" name="GraphicsUtility::errorCallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="315,5,505,31"/>
+<area shape="rect" id="Node000002" href="$class_graphics_utility.html#a78aa5afa04ece31aa37a7e495965eb6b" title="Initializes GLFW." alt="" coords="104,5,267,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,21,267,21,267,15,301,15"/>
+<area shape="rect" id="Node000003" href="$_core_engine_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,21,56,21,56,15,91,15"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="operator*" name="operator*">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,80,129"/>
+<area shape="rect" id="Node000002" href="$class_mat3x3.html#a91de689959c0eded20b5c7e555db67e0" title=" " alt="" coords="128,5,256,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,102,85,71,127,40,137,34,140,39,129,44,89,75,58,105"/>
+<area shape="rect" id="Node000003" href="$class_vector3.html#ad53e22b52babdb90d423601f72467590" title=" " alt="" coords="132,55,252,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="79,102,139,82,141,87,81,107"/>
+<area shape="rect" id="Node000004" href="$class_vector3.html#acc72d46bb45879ea46c42014045ac67a" title=" " alt="" coords="151,104,233,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="80,114,136,114,136,119,80,119"/>
+<area shape="rect" id="Node000005" href="$class_vector3.html#a08a831628119b48edf35c463d54eac74" title=" " alt="" coords="151,153,233,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="81,126,141,146,139,151,79,131"/>
+<area shape="rect" id="Node000006" href="$class_vector3.html#a4d49b5ed28ff63868807aacef80bd220" title=" " alt="" coords="151,203,233,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="58,128,89,157,129,188,142,195,139,199,127,192,85,161,54,131"/>
+</map>

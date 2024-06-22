@@ -1,0 +1,11 @@
+<map id="Terrain::getTexCoord" name="Terrain::getTexCoord">
+<area shape="rect" id="Node000001" title="Calculates the texture coordinates for a given texture number." alt="" coords="5,45,148,70"/>
+<area shape="rect" id="Node000002" href="$class_texture_generator.html#a009b5062d67933807a52f52797257af9" title="Gets the height of a texture." alt="" coords="196,5,365,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,44,182,38,183,43,149,49"/>
+<area shape="rect" id="Node000004" href="$class_texture_generator.html#a1d50f73dcec252286210ff730765edbb" title="Gets the width of a texture." alt="" coords="196,69,365,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,66,183,71,182,77,148,71"/>
+<area shape="rect" id="Node000003" href="$class_image.html#ad6d9460277f9e01b6ffc35d8b7a9cc13" title="Retrieves the height of the image." alt="" coords="413,13,533,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,23,400,23,400,28,365,28"/>
+<area shape="rect" id="Node000005" href="$class_image.html#a54ed099841ba0f9a30aa7c657742b5c6" title="Retrieves the width of the image." alt="" coords="415,77,532,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="365,87,401,87,401,92,365,92"/>
+</map>

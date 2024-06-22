@@ -1,0 +1,11 @@
+<map id="Skybox::Render" name="Skybox::Render">
+<area shape="rect" id="Node000001" title="Renders the skybox." alt="" coords="5,80,120,105"/>
+<area shape="rect" id="Node000002" href="$class_shader.html#a5a5a24f72050f46f03cb839b41490527" title="Bind the shader for rendering." alt="" coords="216,5,313,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,78,123,58,167,39,202,29,204,34,169,45,125,63,88,82"/>
+<area shape="rect" id="Node000003" href="$class_texture_manager.html#ae5d11f27e364451a6074faf293937e50" title="Binds the texture correlating to id." alt="" coords="190,55,339,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,83,176,76,176,81,120,88"/>
+<area shape="rect" id="Node000004" href="$class_texture_manager.html#a56a8e72fe021e29efcda8491d0efccfc" title="Get the singleton instance of TextureManager." alt="" coords="168,104,361,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,97,155,101,154,106,120,102"/>
+<area shape="rect" id="Node000005" href="$class_texture_manager.html#aac74a2b01b5d3a0d07880930149bb0e2" title=" " alt="" coords="183,153,346,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="89,103,169,138,196,147,195,152,167,143,87,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LightingManager::DeactivatePointLight" name="LightingManager::DeactivatePointLight">
+<area shape="rect" id="Node000001" title="Deactivate a point light with the given ID." alt="" coords="5,5,191,45"/>
+<area shape="rect" id="Node000002" href="$class_lighting_manager.html#a385053bf280f3767147c0b3b14fb31db" title="Set point light uniforms in a shader program." alt="" coords="239,5,440,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,23,225,23,225,28,191,28"/>
+</map>

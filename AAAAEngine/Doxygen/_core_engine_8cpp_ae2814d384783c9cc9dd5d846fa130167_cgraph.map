@@ -1,0 +1,7 @@
+<map id="CreateTerrain" name="CreateTerrain">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,104,31"/>
+<area shape="rect" id="Node000002" href="$_core_engine_8cpp.html#a5c39622609be6415488e188d8ea77951" title=" " alt="" coords="152,5,231,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,15,138,15,138,21,104,21"/>
+<area shape="rect" id="Node000003" href="$class_e_c_s.html#a375d4656823da0fe04b4db86f3a2c6b2" title="Adds an entity to the registry with the specified transformation and rendering status." alt="" coords="279,5,393,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="231,15,265,15,265,21,231,21"/>
+</map>

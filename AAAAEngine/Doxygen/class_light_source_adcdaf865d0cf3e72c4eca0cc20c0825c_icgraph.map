@@ -1,0 +1,9 @@
+<map id="LightSource::LightSource" name="LightSource::LightSource">
+<area shape="rect" id="Node000001" title="Default constructor for the LightSource class." alt="" coords="240,77,408,102"/>
+<area shape="rect" id="Node000002" href="$class_directional_light_source.html#a9fedbec947216bc00943a170174d8c01" title="Default constructor for the DirectionalLightSource class." alt="" coords="19,5,179,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,75,169,48,171,43,266,70"/>
+<area shape="rect" id="Node000003" href="$class_point_light_source.html#a0bdbc6beb02a88d47284b7a54d6e0bdd" title="Default constructor for the PointLightSource class." alt="" coords="5,69,192,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,92,192,92,192,87,226,87"/>
+<area shape="rect" id="Node000004" href="$class_spot_light_source.html#ad3641efcc1e9582f287f1a450c2e858c" title="Default constructor for the SpotLightSource class." alt="" coords="8,133,189,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="266,108,171,136,169,131,265,103"/>
+</map>

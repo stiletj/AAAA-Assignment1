@@ -1,0 +1,5 @@
+<map id="TextureGenerator::getTexWidth" name="TextureGenerator::getTexWidth">
+<area shape="rect" id="Node000001" title="Gets the width of a texture." alt="" coords="5,5,175,45"/>
+<area shape="rect" id="Node000002" href="$class_image.html#a54ed099841ba0f9a30aa7c657742b5c6" title="Retrieves the width of the image." alt="" coords="223,13,340,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,23,209,23,209,28,175,28"/>
+</map>

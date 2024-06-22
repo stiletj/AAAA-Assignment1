@@ -1,0 +1,5 @@
+<map id="Shader::SetUniform1i" name="Shader::SetUniform1i">
+<area shape="rect" id="Node000001" title="Set an integer uniform in the shader program." alt="" coords="5,5,151,31"/>
+<area shape="rect" id="Node000002" href="$class_shader.html#a48bb7761c04154b523e0f3f67db7327d" title="Get the location of a uniform variable in the shader program." alt="" coords="199,5,384,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,15,185,15,185,21,151,21"/>
+</map>

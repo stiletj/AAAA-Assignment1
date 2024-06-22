@@ -1,0 +1,11 @@
+<map id="Renderer::TerrainRender" name="Renderer::TerrainRender">
+<area shape="rect" id="Node000001" title="Draw the specified terrain (CLOD style) using the provided shader." alt="" coords="5,55,168,80"/>
+<area shape="rect" id="Node000002" href="$class_index_buffer.html#ac8bdd0495f718173fb46691ad1b7e4af" title="Bind the index buffer for rendering." alt="" coords="219,5,339,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,52,214,32,216,37,137,57"/>
+<area shape="rect" id="Node000003" href="$class_shader.html#a5a5a24f72050f46f03cb839b41490527" title="Bind the shader for rendering." alt="" coords="230,55,327,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,65,216,65,216,70,168,70"/>
+<area shape="rect" id="Node000004" href="$class_vertex_array.html#ad5059455f0864327028636c628d5a661" title="Bind the Vertex Array Object (VAO) for rendering." alt="" coords="216,104,341,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,77,216,98,214,103,136,83"/>
+<area shape="rect" id="Node000005" href="$class_graphics_utility.html#a1018c178afb7a8781e9243e57f073b46" title="Binds a vertex array object." alt="" coords="389,97,568,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="341,114,376,114,376,119,341,119"/>
+</map>

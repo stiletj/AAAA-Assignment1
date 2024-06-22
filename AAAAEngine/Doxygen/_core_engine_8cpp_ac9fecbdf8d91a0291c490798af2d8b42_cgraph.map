@@ -1,0 +1,25 @@
+<map id="SetLuaObjects" name="SetLuaObjects">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,113,179"/>
+<area shape="rect" id="Node000002" href="$_core_engine_8cpp.html#a5c39622609be6415488e188d8ea77951" title=" " alt="" coords="186,5,265,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,152,102,99,129,67,160,40,172,32,175,37,163,44,132,71,106,102,70,155"/>
+<area shape="rect" id="Node000004" href="$_core_engine_8cpp.html#a354fff04dde396a08a72cee8e1f7e187" title=" " alt="" coords="187,55,264,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="74,151,112,121,160,89,172,83,175,88,163,94,115,125,77,155"/>
+<area shape="rect" id="Node000005" href="$_core_engine_8cpp.html#affd872b862619af7b8077c026cc18391" title=" " alt="" coords="186,104,265,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="102,151,172,129,174,135,104,156"/>
+<area shape="rect" id="Node000007" href="$struct_physics_body.html#ac082e02eb4d6861f6d1aff1a9b56e78e" title="Returns a reference to the physics properties of the body." alt="" coords="161,153,289,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="114,163,148,163,148,169,114,169"/>
+<area shape="rect" id="Node000008" href="$_core_engine_8cpp.html#a731a78b3559c235e2079366ac41ca8e0" title=" " alt="" coords="184,203,267,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="104,176,171,197,170,202,102,181"/>
+<area shape="rect" id="Node000010" href="$_core_engine_8cpp.html#a6999152473ebbb1cf8a6814ab2b0ed14" title=" " alt="" coords="175,252,275,277"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="77,177,115,206,163,237,177,244,175,249,160,242,112,210,74,181"/>
+<area shape="rect" id="Node000012" href="$_core_engine_8cpp.html#a6508c1547cbf58db29a2ea9e405234bd" title=" " alt="" coords="183,301,267,327"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="70,177,106,230,133,260,163,287,173,293,170,298,160,291,129,264,102,233,66,180"/>
+<area shape="rect" id="Node000003" href="$class_e_c_s.html#a375d4656823da0fe04b4db86f3a2c6b2" title="Adds an entity to the registry with the specified transformation and rendering status." alt="" coords="361,5,475,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,15,347,15,347,21,265,21"/>
+<area shape="rect" id="Node000006" href="$class_scripting.html#a208773803549fd2f005543e14f014447" title="Loads a Lua script file." alt="" coords="347,104,489,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="265,114,333,114,333,119,265,119"/>
+<area shape="rect" id="Node000009" href="$class_mesh_loader.html#a3c9218d4101d614f6271cfbe3bd07b70" title="Loads a mesh from the specified file." alt="" coords="337,203,499,228"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="267,213,324,213,324,218,267,218"/>
+<area shape="rect" id="Node000011" href="$class_mesh_loader.html#a4f7af61bb1de36dd1b9c7020e351639a" title="Retrieves the loaded mesh." alt="" coords="341,252,495,277"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="276,262,327,262,327,267,276,267"/>
+</map>

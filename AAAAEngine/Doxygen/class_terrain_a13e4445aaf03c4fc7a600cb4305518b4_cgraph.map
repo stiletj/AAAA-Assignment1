@@ -1,0 +1,26 @@
+<map id="Terrain::render" name="Terrain::render">
+<area shape="rect" id="Node000001" title="Renders the terrain." alt="" coords="5,233,111,259"/>
+<area shape="rect" id="Node000002" href="$class_shader.html#a5a5a24f72050f46f03cb839b41490527" title="Bind the shader for rendering." alt="" coords="207,5,304,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,233,68,195,87,142,115,87,134,62,157,40,174,29,192,23,194,28,176,34,160,44,138,65,120,90,91,145,73,196,64,234"/>
+<area shape="rect" id="Node000003" href="$class_texture_manager.html#a56a8e72fe021e29efcda8491d0efccfc" title="Get the singleton instance of TextureManager." alt="" coords="159,55,352,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="62,232,74,203,94,164,122,124,157,91,169,83,171,88,160,95,126,128,98,167,79,205,66,234"/>
+<area shape="rect" id="Node000004" href="$class_lighting_manager.html#a7d372439fba200be85f4757f91111cea" title="Get the status of directional light." alt="" coords="169,105,341,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="68,231,105,194,157,154,170,148,172,152,160,159,109,198,72,235"/>
+<area shape="rect" id="Node000005" href="$class_texture_manager.html#aa0be604cf7760cc08323d6526502d9ff" title="Activate a texture for rendering. This function binds and enables the specified texture." alt="" coords="166,169,345,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="102,231,172,210,174,215,103,236"/>
+<area shape="rect" id="Node000007" href="$class_shader.html#aa03bfc2c930f12462bcaf414f3350779" title="Set a floating&#45;point uniform in the shader program." alt="" coords="183,233,328,259"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="111,243,169,243,169,249,111,249"/>
+<area shape="rect" id="Node000009" href="$class_shader.html#a90001fce693c6b597754403eb313c2ee" title="Set an integer uniform in the shader program." alt="" coords="183,283,328,308"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="110,256,191,277,190,282,109,261"/>
+<area shape="rect" id="Node000010" href="$class_shader.html#aebfe8baf7c63c605e0ed429085a4e06a" title="Unbind the shader." alt="" coords="200,332,311,357"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="75,257,112,287,160,317,188,328,186,333,157,322,109,291,71,261"/>
+<area shape="rect" id="Node000011" href="$class_texture_manager.html#aac74a2b01b5d3a0d07880930149bb0e2" title=" " alt="" coords="174,381,337,407"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="68,258,103,311,129,341,160,366,174,374,171,379,157,371,125,345,99,314,64,260"/>
+<area shape="rect" id="Node000012" href="$class_mesh_renderer.html#aae52c73d331de1a7d1ffb0ed69187f50" title="Updates the world transformation matrix." alt="" coords="161,431,350,471"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="66,258,77,290,97,332,124,377,160,416,169,422,166,426,157,420,120,380,92,335,72,292,61,260"/>
+<area shape="rect" id="Node000006" href="$class_texture_manager.html#a33ca16f343184edbac3aa7f494ced1a6" title="Get texture ID by its path." alt="" coords="400,176,587,201"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="345,186,386,186,386,191,345,191"/>
+<area shape="rect" id="Node000008" href="$class_shader.html#a48bb7761c04154b523e0f3f67db7327d" title="Get the location of a uniform variable in the shader program." alt="" coords="401,257,586,283"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="329,251,387,257,387,262,328,256"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="328,285,387,279,387,284,329,290"/>
+</map>

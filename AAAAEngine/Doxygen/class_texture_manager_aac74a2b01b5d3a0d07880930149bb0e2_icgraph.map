@@ -1,0 +1,9 @@
+<map id="TextureManager::Unbind" name="TextureManager::Unbind">
+<area shape="rect" id="Node000001" title=" " alt="" coords="168,55,331,80"/>
+<area shape="rect" id="Node000002" href="$class_u_i.html#a2c43e0966d6d6b20979e22fadfaf6666" title="Draws an image on the screen." alt="" coords="11,5,115,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,54,111,33,113,28,188,49"/>
+<area shape="rect" id="Node000003" href="$class_skybox.html#a3607b3edf6cca1899effb5a87daa7367" title="Renders the skybox." alt="" coords="5,55,120,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,70,120,70,120,65,154,65"/>
+<area shape="rect" id="Node000004" href="$class_terrain.html#a13e4445aaf03c4fc7a600cb4305518b4" title="Renders the terrain." alt="" coords="10,104,115,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,86,113,106,111,101,187,81"/>
+</map>

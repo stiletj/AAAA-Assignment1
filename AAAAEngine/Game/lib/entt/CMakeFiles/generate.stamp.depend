@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.27/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/tjsti/GitHub/AAAAEngine/AAAAGameEngine2/AAAAGameEngine2/build/CMakeFiles/cmake.verify_globs
+C:/Users/tjsti/GitHub/AAAAEngine/AAAAGameEngine2/AAAAGameEngine2/lib/entt/CMakeLists.txt
+C:/Users/tjsti/GitHub/AAAAEngine/AAAAGameEngine2/AAAAGameEngine2/lib/entt/cmake/in/EnTTConfig.cmake.in
+C:/Users/tjsti/GitHub/AAAAEngine/AAAAGameEngine2/AAAAGameEngine2/lib/entt/cmake/in/entt.pc.in
+C:/Users/tjsti/GitHub/AAAAEngine/AAAAGameEngine2/AAAAGameEngine2/lib/entt/cmake/modules/JoinPaths.cmake

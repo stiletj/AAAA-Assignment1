@@ -1,0 +1,5 @@
+<map id="TextureGenerator::getNumTextures" name="TextureGenerator::getNumTextures">
+<area shape="rect" id="Node000001" title="Gets the number of textures." alt="" coords="220,5,395,45"/>
+<area shape="rect" id="Node000002" href="$class_terrain.html#a272d417f0b93415cc3099fa020bfd64a" title="Creates a procedural texture for the terrain." alt="" coords="5,5,172,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,28,172,28,172,23,206,23"/>
+</map>

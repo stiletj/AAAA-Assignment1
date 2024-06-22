@@ -1,0 +1,7 @@
+<map id="Camera::Camera" name="Camera::Camera">
+<area shape="rect" id="Node000001" title="Copy constructor for the Camera class." alt="" coords="5,31,125,56"/>
+<area shape="rect" id="Node000002" href="$class_camera.html#a65c533d775f377b5a24feca6527940ce" title="Get the pitch (x&#45;axis angle) of the camera." alt="" coords="173,5,300,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,32,160,27,160,32,126,37"/>
+<area shape="rect" id="Node000003" href="$class_camera.html#a07d8f7c3d69c1c32da869f9c8f7d0649" title="Get the yaw (y&#45;axis angle) of the camera." alt="" coords="176,55,297,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,49,162,54,162,60,125,54"/>
+</map>

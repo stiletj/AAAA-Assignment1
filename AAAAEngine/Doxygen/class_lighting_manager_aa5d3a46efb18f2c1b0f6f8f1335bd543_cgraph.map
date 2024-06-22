@@ -1,0 +1,5 @@
+<map id="LightingManager::SetLightingUniforms" name="LightingManager::SetLightingUniforms">
+<area shape="rect" id="Node000001" title="Set lighting uniforms in a shader program." alt="" coords="5,5,196,45"/>
+<area shape="rect" id="Node000002" href="$class_lighting_manager.html#a9bc7fbfafebb5732a8aca787466d607b" title="Set directional light uniforms in a shader program." alt="" coords="244,5,451,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,23,230,23,230,28,196,28"/>
+</map>

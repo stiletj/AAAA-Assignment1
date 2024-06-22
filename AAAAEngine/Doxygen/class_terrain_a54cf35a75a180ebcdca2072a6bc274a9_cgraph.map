@@ -1,0 +1,11 @@
+<map id="Terrain::Terrain" name="Terrain::Terrain">
+<area shape="rect" id="Node000001" title="Constructs a Terrain object from a heightmap file." alt="" coords="5,13,113,38"/>
+<area shape="rect" id="Node000002" href="$class_terrain.html#ab6196163de0ab8f79fa5a26abb2080a3" title="Loads a heightmap from a file." alt="" coords="161,13,316,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,23,147,23,147,28,114,28"/>
+<area shape="rect" id="Node000003" href="$class_terrain.html#a8cab08155ceb1b7540741f61b1e2ef85" title="Creates a geomipmap grid for the terrain." alt="" coords="364,13,565,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="316,23,350,23,350,28,316,28"/>
+<area shape="rect" id="Node000004" href="$class_terrain.html#a577ef79d63f1338d87bb2111e31ab830" title="Generates the vertex and index buffers for the terrain." alt="" coords="613,5,772,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="565,23,600,23,600,28,565,28"/>
+<area shape="rect" id="Node000005" href="$class_terrain.html#a1e0b78b3f65165eeef26e559738a54fe" title="Calculates the number of indices." alt="" coords="820,13,981,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="772,23,807,23,807,28,772,28"/>
+</map>

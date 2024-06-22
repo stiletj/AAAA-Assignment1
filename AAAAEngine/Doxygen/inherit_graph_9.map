@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_light_source.html" title="Base class for a generic light source with color and intensity properties." alt="" coords="5,55,96,80"/>
+<area shape="rect" id="Node000001" href="$class_directional_light_source.html" title="A class representing a directional light source." alt="" coords="144,5,296,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="107,48,175,28,176,33,109,53"/>
+<area shape="rect" id="Node000002" href="$class_point_light_source.html" title="A class representing a point light source." alt="" coords="159,55,281,80"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="110,65,159,65,159,70,110,70"/>
+<area shape="rect" id="Node000003" href="$class_spot_light_source.html" title="A class representing a spot light source." alt="" coords="161,104,279,129"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="109,81,176,101,175,106,107,87"/>
+</map>

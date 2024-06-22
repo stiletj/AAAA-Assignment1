@@ -1,0 +1,5 @@
+<map id="Camera::GetPitch" name="Camera::GetPitch">
+<area shape="rect" id="Node000001" title="Get the pitch (x&#45;axis angle) of the camera." alt="" coords="173,5,300,31"/>
+<area shape="rect" id="Node000002" href="$class_camera.html#a2ffe90a24aff4cf848a0fbde64c1e673" title="Copy constructor for the Camera class." alt="" coords="5,5,125,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,21,125,21,125,15,160,15"/>
+</map>

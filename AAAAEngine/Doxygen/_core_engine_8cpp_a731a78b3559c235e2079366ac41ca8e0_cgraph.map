@@ -1,0 +1,5 @@
+<map id="LoadMesh" name="LoadMesh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,88,31"/>
+<area shape="rect" id="Node000002" href="$class_mesh_loader.html#a3c9218d4101d614f6271cfbe3bd07b70" title="Loads a mesh from the specified file." alt="" coords="136,5,297,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,15,122,15,122,21,88,21"/>
+</map>

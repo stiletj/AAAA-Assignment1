@@ -1,0 +1,15 @@
+<map id="TextureManager::GetInstance" name="TextureManager::GetInstance">
+<area shape="rect" id="Node000001" title="Get the singleton instance of TextureManager." alt="" coords="347,104,540,129"/>
+<area shape="rect" id="Node000002" href="$class_u_i.html#a2c43e0966d6d6b20979e22fadfaf6666" title="Draws an image on the screen." alt="" coords="149,5,253,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,99,357,71,298,44,253,31,254,26,300,40,360,67,411,95"/>
+<area shape="rect" id="Node000003" href="$class_terrain.html#aad2c79618007f83cbdd86441f72bab68" title="Loads a detail map texture for the terrain." alt="" coords="104,55,299,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="367,104,264,83,265,77,368,99"/>
+<area shape="rect" id="Node000005" href="$class_terrain.html#a073f7ec4ee4dfb202acbe9ab71d6a88c" title="Loads a texture for the terrain." alt="" coords="114,104,289,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="333,119,289,119,289,114,333,114"/>
+<area shape="rect" id="Node000006" href="$class_skybox.html#a3607b3edf6cca1899effb5a87daa7367" title="Renders the skybox." alt="" coords="144,153,259,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="368,135,259,157,258,152,367,129"/>
+<area shape="rect" id="Node000007" href="$class_terrain.html#a13e4445aaf03c4fc7a600cb4305518b4" title="Renders the terrain." alt="" coords="149,203,254,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="410,138,359,166,300,192,255,206,253,201,298,188,357,161,408,134"/>
+<area shape="rect" id="Node000004" href="$_core_engine_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,55,56,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="90,70,56,70,56,65,90,65"/>
+</map>

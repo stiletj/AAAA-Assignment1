@@ -1,0 +1,5 @@
+<map id="GraphicsUtility::Clear" name="GraphicsUtility::Clear">
+<area shape="rect" id="Node000001" title="Clears buffers to preset values." alt="" coords="165,5,311,31"/>
+<area shape="rect" id="Node000002" href="$class_renderer.html#a39adf4c82c15dad54d7f42f6bd035ff6" title="Clear the screen with the current clear color." alt="" coords="5,5,117,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,21,118,21,118,15,152,15"/>
+</map>

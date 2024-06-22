@@ -1,0 +1,5 @@
+<map id="InitPhysics" name="InitPhysics">
+<area shape="rect" id="Node000001" title="Initializes the physics world." alt="" coords="5,5,92,31"/>
+<area shape="rect" id="Node000002" href="$_world_physics_8cpp.html#ad4062822e4341780530c004a9ab31cfc" title="Sets up the physics world with specified parameters." alt="" coords="140,5,275,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,15,126,15,126,21,92,21"/>
+</map>

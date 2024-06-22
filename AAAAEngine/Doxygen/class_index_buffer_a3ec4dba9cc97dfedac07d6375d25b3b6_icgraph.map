@@ -1,0 +1,5 @@
+<map id="IndexBuffer::GetCount" name="IndexBuffer::GetCount">
+<area shape="rect" id="Node000001" title="Get the number of indices in the index buffer." alt="" coords="176,5,325,31"/>
+<area shape="rect" id="Node000002" href="$class_renderer.html#ad298f856e59e0f9c7cb1631a318d875f" title="Draw the specified Entity using the provided shader." alt="" coords="5,5,128,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,21,128,21,128,15,162,15"/>
+</map>

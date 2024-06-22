@@ -1,0 +1,5 @@
+<map id="PhysicsBody" name="PhysicsBody">
+<area shape="rect" id="Node000001" title="Structure representing a physics body." alt="" coords="18,364,150,460"/>
+<area shape="rect" id="Node000002" href="$class_physics.html" title="Class representing the physics engine interface." alt="" coords="5,5,163,301"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,301,87,348,81,348,81,301"/>
+</map>

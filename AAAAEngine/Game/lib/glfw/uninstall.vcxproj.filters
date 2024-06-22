@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tjsti\GitHub\AAAAEngine\AAAAGameEngine2\AAAAGameEngine2\build\CMakeFiles\a9767a76d542d129bb5869826f49295f\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\tjsti\GitHub\AAAAEngine\AAAAGameEngine2\AAAAGameEngine2\lib\glfw\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\tjsti\GitHub\AAAAEngine\AAAAGameEngine2\AAAAGameEngine2\build\lib\glfw\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{554A5977-6323-324F-ACE5-CE3861C81931}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

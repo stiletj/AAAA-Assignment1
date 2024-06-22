@@ -1,0 +1,13 @@
+<map id="Renderer::Render" name="Renderer::Render">
+<area shape="rect" id="Node000001" title="Draw the specified Entity using the provided shader." alt="" coords="5,80,128,105"/>
+<area shape="rect" id="Node000002" href="$class_index_buffer.html#ac8bdd0495f718173fb46691ad1b7e4af" title="Bind the index buffer for rendering." alt="" coords="191,5,311,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,77,175,40,194,33,196,38,177,44,94,82"/>
+<area shape="rect" id="Node000003" href="$class_shader.html#a5a5a24f72050f46f03cb839b41490527" title="Bind the shader for rendering." alt="" coords="202,55,299,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,82,188,73,189,79,129,87"/>
+<area shape="rect" id="Node000004" href="$class_vertex_array.html#ad5059455f0864327028636c628d5a661" title="Bind the Vertex Array Object (VAO) for rendering." alt="" coords="188,104,313,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="129,98,175,104,174,109,128,103"/>
+<area shape="rect" id="Node000006" href="$class_index_buffer.html#a3ec4dba9cc97dfedac07d6375d25b3b6" title="Get the number of indices in the index buffer." alt="" coords="176,153,325,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="96,103,177,138,198,146,197,151,175,143,94,108"/>
+<area shape="rect" id="Node000005" href="$class_graphics_utility.html#a1018c178afb7a8781e9243e57f073b46" title="Binds a vertex array object." alt="" coords="373,97,552,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="314,114,359,114,359,119,314,119"/>
+</map>

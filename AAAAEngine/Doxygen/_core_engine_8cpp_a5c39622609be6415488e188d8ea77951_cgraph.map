@@ -1,0 +1,5 @@
+<map id="AddEntity" name="AddEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,84,31"/>
+<area shape="rect" id="Node000002" href="$class_e_c_s.html#a375d4656823da0fe04b4db86f3a2c6b2" title="Adds an entity to the registry with the specified transformation and rendering status." alt="" coords="132,5,247,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,15,118,15,118,21,84,21"/>
+</map>
